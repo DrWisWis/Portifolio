@@ -27,5 +27,7 @@ header button {
 }
 
 header a{
-    color: black1;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
 }
