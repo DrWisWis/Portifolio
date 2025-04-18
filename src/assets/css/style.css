@@ -18,12 +18,12 @@ header {
 }
 
 header button {
-    background-color: blue;
-    color: white;
-    border-radius: 5px;
-    border: none;
-    height: 30px;
-    width: auto;
+    background-color: rgba(0, 0, 255, 0);
+    border: 2px solid blue;
+    font-size: large;
+    border-radius: 100px;
+    height: 56px;
+    width: 200px;
 }
 
 header a{
